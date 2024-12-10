@@ -17,14 +17,3 @@ This project demonstrates testing with Jest. It includes multiple test cases for
 
 - JavaScript
 - Jest
-
-## Project Setup
-
-### 1. Install Jest
-
-Make sure you have Node.js installed. Then, install Jest using npm:
-
-```bash
-npm init -y
-npm install --save-dev jest
-git config --global user.name
